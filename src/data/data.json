@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Frizerski Salon Sita",
+    "title": "Frizerski Studio Sita",
     "paragraph": "Poverenje vec vise od 20 godina."
   },
   "About": {
@@ -177,7 +177,7 @@
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
+      "title": "Lor em ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]
