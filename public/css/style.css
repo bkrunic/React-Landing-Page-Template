@@ -16,19 +16,19 @@ h4 {
 h2 {
   text-transform: uppercase;
   margin: 0 0 20px;
-  font-weight: 800;
+  font-weight: 500;
   font-size: 36px;
   color: #333;
 }
 h3 {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 400;
   color: #333;
 }
 h4 {
   font-size: 18px;
   color: #333;
-  font-weight: 600;
+  font-weight: 400;
 }
 h5 {
   text-transform: uppercase;
@@ -317,8 +317,8 @@ header .intro-text {
 #services {
   padding: 100px 0;
   /* golden radial gradient */
-  background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
-  radial-gradient(ellipse farthest-corner at left top, #FFFFAC 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);  color: #fff;
+  background: linear-gradient(90deg, rgba(207,190,167,1) 30%, rgba(218,169,105,1) 100%);
+
 }
 #services .service-desc {
   margin: 10px 10px 20px;
@@ -337,7 +337,7 @@ header .intro-text {
   left: 50%;
 }
 #services h3 {
-  font-weight: 700;
+  font-weight: ;
   padding: 5px 0;
   color: rgb(0, 0, 0);
   font-size: 33px;
@@ -368,8 +368,7 @@ header .intro-text {
   text-align: center;
   margin: 0 auto;
   color: #fff;
-  background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
-  radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%),20%;
+  background: linear-gradient(90deg, rgba(207,190,167,1) 30%, rgba(218,169,105,1) 100%);
   padding: 30% 0 0;
   height: 100%;
   width: 100%;
@@ -457,8 +456,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
-  radial-gradient(ellipse farthest-corner at left top, #FFFFAC 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);  color: #fff;
+  background: linear-gradient(90deg, rgba(207,190,167,1) 30%, rgba(218,169,105,1) 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
