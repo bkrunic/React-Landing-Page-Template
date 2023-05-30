@@ -249,24 +249,6 @@ header .intro-text {
   padding-bottom: 200px;
   text-align: center;
 }
-/* Features Section */
-#features {
-  background: #f6f6f6;
-}
-#features i.fa {
-  font-size: 38px;
-  margin-bottom: 20px;
-  transition: all 0.5s;
-  color: #fff;
-  width: 100px;
-  height: 100px;
-  padding: 30px 0;
-  border-radius: 50%;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
-}
-/* About Section */
 #about {
   padding: 100px 0;
 }
@@ -304,7 +286,7 @@ header .intro-text {
   padding-right: 8px;
 }
 #about img {
-  width: 100%;
+  width: 520%;
   margin-top: 10px;
   background: #fff;
   border-right: 0;
@@ -317,8 +299,7 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  /* golden radial gradient */
-  background: linear-gradient(90deg, rgba(207,190,167,1) 30%, rgba(218,169,105,1) 100%);
+  background: linear-gradient(90deg, rgba(207,190,167,1) 50%, rgba(218,169,105,1) 120%);
 
 }
 #services .service-desc {
@@ -369,7 +350,7 @@ header .intro-text {
   text-align: center;
   margin: 0 auto;
   color: #fff;
-  background: linear-gradient(90deg, rgba(207,190,167,1) 30%, rgba(218,169,105,1) 100%);
+  background: linear-gradient(90deg, rgba(207,190,167,1) 50%, rgba(218,169,105,1) 120%);
   padding: 30% 0 0;
   height: 100%;
   width: 100%;
@@ -457,7 +438,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(90deg, rgba(207,190,167,1) 30%, rgba(218,169,105,1) 100%);
+  background: linear-gradient(90deg, rgba(207,190,167,1) 50%, rgba(218,169,105,1) 120%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
