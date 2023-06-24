@@ -4,18 +4,27 @@
     "paragraph": "Bojan Sitic Sita"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "paragraph": "Želeo bih da vam predstavim našeg frizera, koji je ne samo vrhunski majstor svog zanata, već i reprezentativac sa nekoliko osvojenih svetskih prvenstava! Svojim kreativnim i stručnim radom, on je uspeo da osvoji brojne nagrade i poštovanje u frizerskoj industriji. Osim toga, naš frizer je i aktivan na društvenim mrežama, gde deli svoje radove i savete sa svojim pratiocima. Frizer koji obilazi edukacije u Srbiji i inostranstvu, organizuje humanitarne akcije i osnivac kluba frizera u Svilajncu, predstavlja inspirativan primer preduzetnika koji pronalazi načine da koristi svoje veštine i resurse kako bi poboljšao svoju zajednicu. Kroz učestvovanje u programima edukacije, ovaj frizer nije samo unapredjivao svoje veštine i znanje, već je takođe stekao priliku upoznati i povezati se s drugim frizerima u branši. Njegovo osnivanje i predsednik kluba frizera u Svilajncu je takođe značajno doprinelo jačanju zajednice frizera u tom području. Organizacija humanitarnih akcija takođe pokazuje da ovaj frizer ima šire društvene ciljeve i da želi koristiti svoje veštine za dobrobit zajednice. To je izvanredan primer preduzetništva s društvenom odgovornošću, budući da nije samo usmeren na profit, već i na telesne i emocionalne potrebe svojih sugrađana.Kao osoba koja se kontinuirano edukuje i radi na sebi, ovaj frizer predstavlja uzbudljivu i inspirativnu figuru u Svilajncu.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum asda",
-      "Incididunt ut labore"
+      "Belgrade Fashion Week 2015 2016",
+      "OMC WORLD CUP 2018",
+      "Ladies Bridal Style 10. mesto",
+      "Ladies Commercial Cut 15. mesto",
+      "Team members 8. mesto",
+      "OMC WORLD CUP 2020",
+      "Commercial Salon Cut 8. mesto",
+      "European OMC hairworld championship",
+      "Senior Ladies Fashion pro 8. mesto",
+      "Otvoreno prvenstvo Srbije 2018"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Seniori zenski salon cut 4. mesto",
+      "Salonski zenaki full fashion look 4. mesto",
+      "Ukupan plasman salonska moda 4. mesto",
+      "Serbia hair open 2018",
+      "Senior zenski progressive salon 4. mesto",
+      "Senior zenski avantgarde look 2. mesto",
+      "Senior zenski ukupan plasman prestizna moda 3. mesto"
     ]
   },
   "Gallery": [
@@ -69,7 +78,8 @@
     {
       "icon": "fa fa-cut",
       "name": "Musko sisanje",
-      "text": "Fade, low fade, high fade, undercut, razni oblici i duzine"
+      "text": "Fade, low fade, high fade, undercut, razni oblici i duzine",
+      "price": "1000"
     },
     {
       "icon": "fa fa-scissors",
@@ -127,28 +137,6 @@
       "img": "img/testimonials/peca.png",
       "text": "\"Vrhunska usluga!!!\"",
       "name": "Peca Petrovic"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
     }
   ],
   "Contact": {
