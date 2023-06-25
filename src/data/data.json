@@ -30,28 +30,28 @@
   "Gallery": [
     {
       "title": "Frizura 1",
-      "largeImage": "img/portfolio/friz1.jpg",
+      "largeImage": "img/portfolio/friz1.JPG",
       "smallImage": "img/portfolio/friz1-small.jpg"
     },
     {
       "title": "Frizura 2",
-      "largeImage": "img/portfolio/friz2.jpg",
+      "largeImage": "img/portfolio/friz2.JPG",
       "smallImage": "img/portfolio/friz2-small.jpg"
     },
     {
       "title": "Frizura 3",
-      "largeImage": "img/portfolio/friz3.jpg",
+      "largeImage": "img/portfolio/friz3.JPG",
       "smallImage": "img/portfolio/friz3-small.jpg"
     },
     {
       "title": "Frizura 4",
-      "largeImage": "img/portfolio/friz4.jpg",
+      "largeImage": "img/portfolio/friz4.JPG",
       "smallImage": "img/portfolio/friz4-small.jpg"
     },
     {
       "title": "Frizura 5",
-      "largeImage": "img/portfolio/friz5.jpg",
-      "smallImage": "img/portfolio/friz5-small.jpg"
+      "largeImage": "img/portfolio/friz5.JPG",
+      "smallImage": "img/portfolio/friz5-small.JPG"
     },
     {
       "title": "Frizura 6",
@@ -60,17 +60,17 @@
     },
     {
       "title": "Frizura 7",
-      "largeImage": "img/portfolio/friz7.jpg",
+      "largeImage": "img/portfolio/friz7.JPG",
       "smallImage": "img/portfolio/friz7-small.jpg"
     },
     {
       "title": "Frizura 8",
-      "largeImage": "img/portfolio/friz8.jpg",
+      "largeImage": "img/portfolio/friz8.JPG",
       "smallImage": "img/portfolio/friz8-small.jpg"
     },
     {
       "title": "Frizura 9",
-      "largeImage": "img/portfolio/friz9.jpg",
+      "largeImage": "img/portfolio/friz9.JPG",
       "smallImage": "img/portfolio/friz9-small.jpg"
     }
   ],
