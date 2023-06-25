@@ -13,13 +13,13 @@ export const Services = (props) => {
         <div className="row">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
+                <div key={`${d.name}-${i}`} className="col-md-0">
                   {" "}
                   <i className={d.icon}></i>
                   <div className="service-desc">
                     <h3>{d.name}</h3>
                     <p>{d.text}</p>
-                    <h3>{d.price}</h3>
+                    <h4>{d.price}</h4>
                   </div>
                 </div>
               ))
