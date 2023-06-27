@@ -85,7 +85,7 @@ export const Contact = (props) => {
                 </div>
                 <div id="success"></div>
                 <button type="submit" className="btn btn-custom btn-lg">
-                  Send Message
+                  Pošalji upit
                 </button>
               </form>
             </div>
