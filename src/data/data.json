@@ -106,7 +106,7 @@
       "price": "7000-11000 rsd u zavisnosti od dužine kose i veleterapija je 6000 rsd"
     },
     {
-      "ičon": "fa fa-paint-brush",
+      "icon": "fa fa-paint-brush",
       "name": "Preliv",
       "text": "Preliv kose različitih dužina i blajhanje izrastaka",
       "price": "1500-3000 rsd u zavisnosti od dužine kose i blajhanje izrastaka je 3000 rsd"
@@ -118,12 +118,10 @@
       "price": "4500-8500 rsd u zavisnosti od dužine kose dok je dodatak 1g-150 rsd"
     },
     {
-      "ićon": "fa fa-paint-brush",
+      "icon": "fa fa-paint-brush",
       "name": "Feniranje kose",
       "text": "Feniranje kose različitih dužina i mogućnost izlaska na teren",
       "price": "800-1200 rsd u zavisnosti od dužine kose i 1600-2400 rsd za feniranje sa izlaskom na teren"
-    },
-    {
     },
     {
       "icon": "fa fa-plus",
