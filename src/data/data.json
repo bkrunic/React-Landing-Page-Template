@@ -1,10 +1,10 @@
 {
   "Header": {
     "title": "Frizerski Studio Sita",
-    "paragraph": "Bojan Sitic Sita"
+    "paragraph": "Bojan Sitić Sita"
   },
   "About": {
-    "paragraph": "Želeo bih da vam predstavim našeg frizera, koji je ne samo vrhunski majstor svog zanata, već i reprezentativac sa nekoliko osvojenih svetskih prvenstava! Svojim kreativnim i stručnim radom, on je uspeo da osvoji brojne nagrade i poštovanje u frizerskoj industriji. Osim toga, naš frizer je i aktivan na društvenim mrežama, gde deli svoje radove i savete sa svojim pratiocima. Frizer koji obilazi edukacije u Srbiji i inostranstvu, organizuje humanitarne akcije i osnivac kluba frizera u Svilajncu, predstavlja inspirativan primer preduzetnika koji pronalazi načine da koristi svoje veštine i resurse kako bi poboljšao svoju zajednicu. Kroz učestvovanje u programima edukacije, ovaj frizer nije samo unapredjivao svoje veštine i znanje, već je takođe stekao priliku upoznati i povezati se s drugim frizerima u branši. Njegovo osnivanje i predsednik kluba frizera u Svilajncu je takođe značajno doprinelo jačanju zajednice frizera u tom području. Organizacija humanitarnih akcija takođe pokazuje da ovaj frizer ima šire društvene ciljeve i da želi koristiti svoje veštine za dobrobit zajednice. To je izvanredan primer preduzetništva s društvenom odgovornošću, budući da nije samo usmeren na profit, već i na telesne i emocionalne potrebe svojih sugrađana.Kao osoba koja se kontinuirano edukuje i radi na sebi, ovaj frizer predstavlja uzbudljivu i inspirativnu figuru u Svilajncu.",
+    "paragraph": "Želeo bih da vam predstavim našeg frizera, koji je ne samo vrhunski majstor svog zanata, već i reprezentativac sa nekoliko osvojenih svetskih prvenstava! Svojim kreativnim i stručnim radom, on je uspeo da osvoji brojne nagrade i poštovanje u frizerskoj industriji. Osim toga, naš frizer je i aktivan na društvenim mrežama, gde deli svoje radove i savete sa svojim pratiocima. Frizer koji obilazi edukacije u Srbiji i inostranstvu, organizuje humanitarne akcije i osnivač kluba frizera u Svilajncu, predstavlja inspirativan primer preduzetnika koji pronalazi načine da koristi svoje veštine i resurse kako bi poboljšao svoju zajednicu. Kroz učestvovanje u programima edukacije, ovaj frizer nije samo unapređivao svoje veštine i znanje, već je takođe stekao priliku upoznati i povezati se s drugim frizerima u branši. Njegovo osnivanje i predsednik kluba frizera u Svilajncu je takođe značajno doprinelo jačanju zajednice frizera u tom području. Organizacija humanitarnih akcija takođe pokazuje da ovaj frizer ima šire društvene ciljeve i da želi koristiti svoje veštine za dobrobit zajednice. To je izvanredan primer preduzetništva s društvenom odgovornošću, budući da nije samo usmeren na profit, već i na telesne i emocionalne potrebe svojih sugrađana.Kao osoba koja se kontinuirano edukuje i radi na sebi, ovaj frizer predstavlja uzbudljivu i inspirativnu figuru u Svilajncu.",
     "Why": [
       "Belgrade Fashion Week 2015 2016",
       "OMC WORLD CUP 2018",
@@ -18,13 +18,13 @@
       "Otvoreno prvenstvo Srbije 2018"
     ],
     "Why2": [
-      "Seniori zenski salon cut 4. mesto",
-      "Salonski zenaki full fashion look 4. mesto",
+      "Seniori ženski salon cut 4. mesto",
+      "Salonski ženski full fashion look 4. mesto",
       "Ukupan plasman salonska moda 4. mesto",
       "Serbia hair open 2018",
-      "Senior zenski progressive salon 4. mesto",
-      "Senior zenski avantgarde look 2. mesto",
-      "Senior zenski ukupan plasman prestizna moda 3. mesto"
+      "Senior ženski progressive salon 4. mesto",
+      "Senior ženski avantgarde look 2. mesto",
+      "Senior ženski ukupan plasman prestižna moda 3. mesto"
     ]
   },
   "Gallery": [
@@ -71,65 +71,65 @@
     {
       "title": "Frizura 9",
       "largeImage": "img/portfolio/friz9.JPG",
-      "smallImage": "img/portfolio/friz9-small.jpg"
+      "smallImage": "img/portfolio/friŽ9-small.jpg"
     }
   ],
   "Services": [
     {
       "icon": "fa fa-cut",
-      "name": "Musko sisanje",
-      "text": "Moderno i klasicno",
+      "name": "Muško šišanje",
+      "text": "Moderno i klasično",
       "price": "600-800 rsd"
     },
     {
       "icon": "fa fa-scissors",
-      "name": "Zensko sisanje i feniranje",
-      "text": "Zensko sisanje i feniranje razlicitih duzina",
-      "price": "1400-2000 rsd u zavisnosti od duzine kose"
+      "name": "Žensko šišanje i feniranje",
+      "text": "Zensko šišanje i feniranje različitih dužina",
+      "price": "1400-2000 rsd u zavisnosti od dužine kose"
     },
     {
       "icon": "fa fa-paint-brush",
       "name": "Farbanje kose",
-      "text": "Farbanje razlicitih duzina kose, farbanje izrastaka i opcionalno farbanje musterijonom farbom",
-      "price": "2200-4000 rsd u zavisnosti od duzine kose, farbanje izrastaka je 1700 rsd i farbanje musterijinom farbom je 1000 rsd"
+      "text": "Farbanje različitih dužina kose, farbanje izrastaka i opčionalno farbanje mušterijonom farbom",
+      "priče": "2200-4000 rsd u zavisnosti od dužine kose, farbanje izrastaka je 1700 rsd i farbanje mušterijinom farbom je 1000 rsd"
     },
     {
       "icon": "fa fa-paint-brush",
       "name": "Pramenovi",
-      "text": "Farbanje površinskih pramenova  i farbanje celih pramenova koriscenjem shwarzkopf boja",
-      "price": "3000-6000 rsd u zavisnosti od duzine kose"
+      "text": "Farbanje površinskih pramenova  i farbanje celih pramenova korišćenjem shwarzkopf boja",
+      "price": "3000-6000 rsd u zavisnosti od dužine kose"
     },
     {
       "icon": "fa fa-paint-brush",
       "name": "Balayage",
-      "text": "Balayage kose razlicitih duzina i veleterapija",
-      "price": "7000-11000 rsd u zavisnosti od duzine kose i veleterapija je 6000 rsd"
+      "text": "Balayage kose različitih dužina i veleterapija",
+      "price": "7000-11000 rsd u zavisnosti od dužine kose i veleterapija je 6000 rsd"
     },
     {
-      "icon": "fa fa-paint-brush",
+      "ičon": "fa fa-paint-brush",
       "name": "Preliv",
-      "text": "Preliv kose razlicitih duzina i blajhanje izrastaka",
-      "price": "1500-3000 rsd u zavisnosti od duzine kose i blajhanje izrastaka je 3000 rsd"
+      "text": "Preliv kose različitih dužina i blajhanje izrastaka",
+      "price": "1500-3000 rsd u zavisnosti od dužine kose i blajhanje izrastaka je 3000 rsd"
     },
     {
       "icon": "fa fa-paint-brush",
       "name": "Skidanje boje",
-      "text": "Skidanje boje sa kose i opcionalno dodavanje na gramazu dekoranata",
-      "price": "4500-8500 rsd u zavisnosti od duzine kose dok je dodatak 1g-150 rsd"
+      "text": "Skidanje boje sa kose i opcionalno dodavanje na gramažu dekoranata",
+      "price": "4500-8500 rsd u zavisnosti od dužine kose dok je dodatak 1g-150 rsd"
     },
     {
-      "icon": "fa fa-paint-brush",
+      "ićon": "fa fa-paint-brush",
       "name": "Feniranje kose",
-      "text": "Feniranje kose razlicitih duzina i mogucnost izlaska na teren",
-      "price": "800-1200 rsd u zavisnosti od duzine kose i 1600-2400 rsd za feniranje sa izlaskom na teren"
+      "text": "Feniranje kose različitih dužina i mogućnost izlaska na teren",
+      "price": "800-1200 rsd u zavisnosti od dužine kose i 1600-2400 rsd za feniranje sa izlaskom na teren"
     },
     {
     },
     {
       "icon": "fa fa-plus",
       "name": "Dodatne usluge",
-      "text": "Pranje i susenje, frizura za mladu uz moguci izlazak na teren, keratinsko ispravljanje kose i nadogradnja kose",
-      "price": "Pranje i susenje 1000 rsd, frizura za mladu 7000 rsd, izlazak na teren za mladu 80-120e, keratinsko ispravljanje 1ml-300 rsd i nadogradnja kose 1 pramen 4.5e"
+      "text": "Pranje i sušenje, frizura za mladu uz mogući izlazak na teren, keratinsko ispravljanje kose i nadogradnja kose",
+      "price": "Pranje i sušenje 1000 rsd, frizura za mladu 7000 rsd, izlazak na teren za mladu 80-120e, keratinsko ispravljanje 1ml-300 rsd i nadogradnja kose 1 pramen 4.5e"
     }
 
   ],
@@ -137,12 +137,12 @@
     {
       "img": "img/testimonials/bojan.png",
       "text": "\"Vrhunski! Sve pohvale!\"",
-      "name": "Bojan Radovanovic"
+      "name": "Bojan Radovanović"
     },
     {
       "img": "img/testimonials/predrag.png",
       "text": "\"Najbolji u gradu i okolini!.\"",
-      "name": "Predrag Andrejic"
+      "name": "Predrag Andrejić"
     },
     {
       "img": "img/testimonials/marina.png",
@@ -152,21 +152,21 @@
     {
       "img": "img/testimonials/dalibor.jpg",
       "text": "\"Vrhunski profesionalac u svom poslu, jedinstven I neponovljiv.\"",
-      "name": "Dalibor Predic"
+      "name": "Dalibor Predić"
     },
     {
       "img": "img/testimonials/slobodanka.png",
-      "text": "\"Najbolji frizer u gradu, obozavam ga...\"",
-      "name": "Slobodanka Stojanovic"
+      "text": "\"Najbolji frizer u gradu, obožavam ga...\"",
+      "name": "Slobodanka Stojanović"
     },
     {
       "img": "img/testimonials/peca.png",
       "text": "\"Vrhunska usluga!!!\"",
-      "name": "Peca Petrovic"
+      "name": "Peca Petrović"
     }
   ],
   "Contact": {
-    "address": "T.C. Pasaz do robne kuce kriva carsija bb, Svilajnac",
+    "address": "T.C. Pasaž do robne kuće Kriva Čaršija bb, Svilajnac",
     "phone": "+381652012044",
     "email": "sitafrizer@gmail.com",
     "facebook": "https://www.facebook.com/bojan.sitic",
